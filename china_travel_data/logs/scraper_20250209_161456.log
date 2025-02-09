@@ -1,0 +1,42 @@
+2025-02-09 16:14:56,573 - INFO - 开始运行爬虫 - 用户: unknown
+2025-02-09 16:14:56,579 - INFO - 搜索关键词: china travel, travel china, china vlog, 中国旅游
+2025-02-09 16:14:56,579 - INFO - 开始抓取 YouTube 数据...
+2025-02-09 16:14:56,579 - INFO - 正在处理 YouTube 搜索词 (1/4): china travel
+2025-02-09 16:14:56,657 - INFO - 搜索 'china travel' 相关视频...
+2025-02-09 16:14:59,132 - INFO - 找到 50 个相关视频
+2025-02-09 16:14:59,132 - INFO - 处理第 1/50 个视频: I Don’t Trust the Media, So I Visited China 🇨🇳
+2025-02-09 16:14:59,133 - WARNING - 获取视频 wjjTct_dwaM 详细信息时出错: 'webpage_url'
+2025-02-09 16:14:59,133 - INFO - 视频数据处理完成: I Don’t Trust the Media, So I Visited China 🇨🇳
+2025-02-09 16:15:00,142 - INFO - 处理第 2/50 个视频: British Mum in CHINA No Longer TRUSTS WESTERN MEDIA After Visit
+2025-02-09 16:15:00,142 - WARNING - 获取视频 w7GciDopKW4 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:00,142 - INFO - 视频数据处理完成: British Mum in CHINA No Longer TRUSTS WESTERN MEDIA After Visit
+2025-02-09 16:15:01,154 - INFO - 处理第 3/50 个视频: China's MOST Magical Mountain 🏔️ I S2, EP111
+2025-02-09 16:15:01,154 - WARNING - 获取视频 T_gAPaN6IKQ 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:01,154 - INFO - 视频数据处理完成: China's MOST Magical Mountain 🏔️ I S2, EP111
+2025-02-09 16:15:02,168 - INFO - 处理第 4/50 个视频: Amazing Places to Visit in China - Travel Video
+2025-02-09 16:15:02,168 - WARNING - 获取视频 vusOqZBKwek 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:02,168 - INFO - 视频数据处理完成: Amazing Places to Visit in China - Travel Video
+2025-02-09 16:15:03,183 - INFO - 处理第 5/50 个视频: Top 10 Places To Visit In China - Travel Guide
+2025-02-09 16:15:03,183 - WARNING - 获取视频 sMzfoo4JBLo 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:03,183 - INFO - 视频数据处理完成: Top 10 Places To Visit In China - Travel Guide
+2025-02-09 16:15:04,190 - INFO - 处理第 6/50 个视频: Top 10 Places to Visit in China - Travel Documentary
+2025-02-09 16:15:04,190 - WARNING - 获取视频 hbgo66q1s9o 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:04,190 - INFO - 视频数据处理完成: Top 10 Places to Visit in China - Travel Documentary
+2025-02-09 16:15:05,197 - INFO - 处理第 7/50 个视频: Exposing China's EXTREME Street Food!!
+2025-02-09 16:15:05,197 - WARNING - 获取视频 t2TGvr7DA6g 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:05,197 - INFO - 视频数据处理完成: Exposing China's EXTREME Street Food!!
+2025-02-09 16:15:06,205 - INFO - 处理第 8/50 个视频: WONDERS OF CHINA | The Most Incredible Places in China | Travel Guide 4K
+2025-02-09 16:15:06,205 - WARNING - 获取视频 eHu_fthDArA 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:06,205 - INFO - 视频数据处理完成: WONDERS OF CHINA | The Most Incredible Places in China | Travel Guide 4K
+2025-02-09 16:15:07,213 - INFO - 处理第 9/50 个视频: WONDERS OF CHINA | The Best Places to Visit in China | Travel Video
+2025-02-09 16:15:07,213 - WARNING - 获取视频 9Zo64QRyg0c 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:07,213 - INFO - 视频数据处理完成: WONDERS OF CHINA | The Best Places to Visit in China | Travel Video
+2025-02-09 16:15:08,214 - INFO - 处理第 10/50 个视频: china travel vlog: chengdu & chongqing | 四川成都重庆
+2025-02-09 16:15:08,214 - WARNING - 获取视频 UhkspTIWYyU 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:08,214 - INFO - 视频数据处理完成: china travel vlog: chengdu & chongqing | 四川成都重庆
+2025-02-09 16:15:09,225 - INFO - 处理第 11/50 个视频: 17 things I wish I knew before visiting CHINA 🇨🇳
+2025-02-09 16:15:09,225 - WARNING - 获取视频 efDOVVDy0iA 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:09,225 - INFO - 视频数据处理完成: 17 things I wish I knew before visiting CHINA 🇨🇳
+2025-02-09 16:15:10,229 - INFO - 处理第 12/50 个视频: First Impressions of SHANGHAI, CHINA! Travel Vlog
+2025-02-09 16:15:10,229 - WARNING - 获取视频 M_lwC5zPkyo 详细信息时出错: 'webpage_url'
+2025-02-09 16:15:10,229 - INFO - 视频数据处理完成: First Impressions of SHANGHAI, CHINA! Travel Vlog

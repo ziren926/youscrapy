@@ -1,0 +1,3 @@
+序号	搜索关键词	关键词序号	爬取时间	视频ID	标题	频道名	频道ID	发布时间	视频链接	缩略图链接	视频时长	观看次数	点赞数	评论数	描述	处理状态	字幕内容
+1	china travel	1	2025-02-09 09:53:37	wjjTct_dwaM	I Don’t Trust the Media, So I Visited China 🇨🇳	Travel with Luke Damant	UCWm__g4cPmX-umorqM8VfWw		https://www.youtube.com/watch?v=wjjTct_dwaM			27960	0	0	None	处理完成	无字幕
+2	china travel	1	2025-02-09 09:53:41	w7GciDopKW4	British Mum in CHINA No Longer TRUSTS WESTERN MEDIA After Visit	Sun Kissed Bucket List	UCZZwilU9bYdS-phW3M7lv6g		https://www.youtube.com/watch?v=w7GciDopKW4			63370	0	0	None	处理完成	无字幕

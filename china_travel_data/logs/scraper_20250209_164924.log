@@ -1,0 +1,14 @@
+2025-02-09 16:49:24,132 - INFO - Python 版本: 3.7.9 (tags/v3.7.9:13c94747c7, Aug 17 2020, 18:58:18) [MSC v.1900 64 bit (AMD64)]
+2025-02-09 16:49:24,132 - INFO - 运行平台: win32
+2025-02-09 16:49:24,132 - INFO - 开始时间: 2025-02-09 16:49:24
+2025-02-09 16:49:24,132 - INFO - 用户: ziren926
+2025-02-09 16:49:24,132 - ERROR - 导入 YouTubeScraper 失败: No module named 'youtube_scraper'
+2025-02-09 16:49:24,132 - ERROR - 请确保所有依赖都已正确安装
+2025-02-09 16:49:24,132 - ERROR - 程序运行出错: No module named 'youtube_scraper'
+2025-02-09 16:49:24,133 - ERROR - 详细错误信息:
+2025-02-09 16:49:24,134 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Lenovo\IdeaProjects\scrapyyt\main.py", line 53, in main
+    from youtube_scraper import YouTubeScraper
+ModuleNotFoundError: No module named 'youtube_scraper'
+
+2025-02-09 16:49:24,134 - INFO - 程序结束

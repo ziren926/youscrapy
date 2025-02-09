@@ -1,0 +1,6 @@
+2025-02-09 16:48:34,935 - INFO - 开始时间: 2025-02-09 16:48:34
+2025-02-09 16:48:34,935 - INFO - 用户: ziren926
+2025-02-09 16:48:34,936 - INFO - 搜索关键词: china travel, travel china, china vlog, 中国旅游
+2025-02-09 16:48:34,936 - INFO - 每个关键词计划获取 20 个视频
+2025-02-09 16:48:34,936 - ERROR - 程序运行出错: 'YouTubeScraper' object has no attribute 'fetch_videos'
+2025-02-09 16:48:34,936 - INFO - 程序结束

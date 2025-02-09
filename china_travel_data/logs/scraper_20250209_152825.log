@@ -1,0 +1,49 @@
+2025-02-09 15:28:25,322 - INFO - 开始运行爬虫 - 用户: unknown
+2025-02-09 15:28:25,334 - INFO - 搜索关键词: china travel, travel china, china vlog, 中国旅游
+2025-02-09 15:28:25,334 - INFO - 开始抓取 YouTube 数据...
+2025-02-09 15:28:25,334 - INFO - 正在处理 YouTube 搜索词 (1/4): china travel
+2025-02-09 15:28:25,334 - INFO - 搜索 'china travel' 相关视频...
+2025-02-09 15:28:25,427 - ERROR - YouTube API 错误 (搜索词 'china travel'): <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=china+travel&part=id%2Csnippet&maxResults=50&type=video&relevanceLanguage=zh&key=AIzaSyCwJa6TkUs1w8GrlR6WgedX5FMbLnQoQmM&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-02-09 15:28:25,427 - INFO - 正在处理 YouTube 搜索词 (2/4): travel china
+2025-02-09 15:28:25,428 - INFO - 搜索 'travel china' 相关视频...
+2025-02-09 15:28:25,451 - ERROR - YouTube API 错误 (搜索词 'travel china'): <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=travel+china&part=id%2Csnippet&maxResults=50&type=video&relevanceLanguage=zh&key=AIzaSyCwJa6TkUs1w8GrlR6WgedX5FMbLnQoQmM&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-02-09 15:28:25,452 - INFO - 正在处理 YouTube 搜索词 (3/4): china vlog
+2025-02-09 15:28:25,452 - INFO - 搜索 'china vlog' 相关视频...
+2025-02-09 15:28:25,476 - ERROR - YouTube API 错误 (搜索词 'china vlog'): <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=china+vlog&part=id%2Csnippet&maxResults=50&type=video&relevanceLanguage=zh&key=AIzaSyCwJa6TkUs1w8GrlR6WgedX5FMbLnQoQmM&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-02-09 15:28:25,477 - INFO - 正在处理 YouTube 搜索词 (4/4): 中国旅游
+2025-02-09 15:28:25,477 - INFO - 搜索 '中国旅游' 相关视频...
+2025-02-09 15:28:25,504 - ERROR - YouTube API 错误 (搜索词 '中国旅游'): <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?q=%E4%B8%AD%E5%9B%BD%E6%97%85%E6%B8%B8&part=id%2Csnippet&maxResults=50&type=video&relevanceLanguage=zh&key=AIzaSyCwJa6TkUs1w8GrlR6WgedX5FMbLnQoQmM&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-02-09 15:28:25,504 - INFO - YouTube 数据获取完成，共处理 0 个视频
+2025-02-09 15:28:25,504 - INFO - YouTube 数据抓取完成，共获取 0 个视频，耗时 0.17 秒
+2025-02-09 15:28:25,504 - INFO - 开始保存数据到文件: youtube_data_20250209_152825.json
+2025-02-09 15:28:25,505 - INFO - 数据已成功保存到: china_travel_data\youtube_data_20250209_152825.json
+2025-02-09 15:28:25,505 - INFO - YouTube 数据已保存到: youtube_data_20250209_152825.json
+2025-02-09 15:28:25,505 - INFO - 开始抓取 TikTok 数据...
+2025-02-09 15:28:25,505 - INFO - 正在处理 TikTok 搜索词 (1/4): china travel
+2025-02-09 15:28:25,505 - INFO - 发送 TikTok API 请求: china travel
+2025-02-09 15:28:25,745 - INFO - 成功获取响应数据
+2025-02-09 15:28:25,746 - INFO - 搜索词 'china travel' 找到 0 个视频
+2025-02-09 15:28:26,753 - INFO - 正在处理 TikTok 搜索词 (2/4): travel china
+2025-02-09 15:28:26,753 - INFO - 发送 TikTok API 请求: travel china
+2025-02-09 15:28:26,930 - INFO - 成功获取响应数据
+2025-02-09 15:28:26,931 - INFO - 搜索词 'travel china' 找到 0 个视频
+2025-02-09 15:28:27,939 - INFO - 正在处理 TikTok 搜索词 (3/4): china vlog
+2025-02-09 15:28:27,939 - INFO - 发送 TikTok API 请求: china vlog
+2025-02-09 15:28:28,120 - INFO - 成功获取响应数据
+2025-02-09 15:28:28,121 - INFO - 搜索词 'china vlog' 找到 0 个视频
+2025-02-09 15:28:29,130 - INFO - 正在处理 TikTok 搜索词 (4/4): 中国旅游
+2025-02-09 15:28:29,130 - INFO - 发送 TikTok API 请求: 中国旅游
+2025-02-09 15:28:29,285 - INFO - 成功获取响应数据
+2025-02-09 15:28:29,285 - INFO - 搜索词 '中国旅游' 找到 0 个视频
+2025-02-09 15:28:30,290 - INFO - TikTok 数据获取完成，共处理 0 个视频
+2025-02-09 15:28:30,290 - INFO - TikTok 数据抓取完成，共获取 0 个视频，耗时 4.79 秒
+2025-02-09 15:28:30,290 - INFO - 开始保存数据到文件: tiktok_data_20250209_152825.json
+2025-02-09 15:28:30,291 - INFO - 数据已成功保存到: china_travel_data\tiktok_data_20250209_152825.json
+2025-02-09 15:28:30,291 - INFO - TikTok 数据已保存到: tiktok_data_20250209_152825.json
+2025-02-09 15:28:30,291 - INFO - 开始生成数据分析报告...
+2025-02-09 15:28:30,291 - INFO - 开始生成数据分析报告...
+2025-02-09 15:28:30,291 - INFO - 创建 Excel 报告...
+2025-02-09 15:28:30,316 - INFO - 生成总体概况表...
+2025-02-09 15:28:30,318 - ERROR - 创建总体概况表时发生错误: 'platform'
+2025-02-09 15:28:30,325 - ERROR - 生成报告时发生错误: 'platform'
+2025-02-09 15:28:30,325 - ERROR - 爬虫运行过程中发生错误: 'platform'
